@@ -1,0 +1,1 @@
+#Write a program that prints "Hello Coddy: " and the i value from 3 to 27 (including, 25 times in total), do it using a for loop.
