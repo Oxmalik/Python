@@ -1,6 +1,6 @@
 #Muhammad Malik
-#Calculator
-#5/8/2024
+#dynamicInput
+#5/9/2024
 
 #Write a program that gets a dynamic number of input values.
 #The first input is a number that represents the number of the input values following it. The next input values are whole numbers.
