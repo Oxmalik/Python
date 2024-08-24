@@ -6,5 +6,12 @@ For example, for sigma(5), the function will return 15, because 15 = 1 + 2 + 3 +
 
 Important! You don't need to call the function we do that for you behind the scenes in a function type challenges."""
 
-
 def sigma(n):
+    x=0
+    for i in range(n+1):
+        x+=i
+        print(x)
+
+n = int(input())
+
+sigma(n)
