@@ -10,8 +10,9 @@ def sigma(n):
     x=0
     for i in range(n+1):
         x+=i
-        print(x)
+        # print(x)
+    return x
 
-n = int(input())
+# n = int(input())
 
-sigma(n)
+# sigma(n)
