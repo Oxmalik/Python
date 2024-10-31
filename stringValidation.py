@@ -1,4 +1,4 @@
-# Muhammad Malikj
+# Muhammad Malik
 # String Validation of Username and Password
 # 10/29/2024
 

@@ -1,5 +1,5 @@
-# Muhammad Malikj
-# String Validation of Username and Password
+# Muhammad Malik
+# list modification
 # 10/29/2024
 
 """Create a function named change_element that receives 3 arguments:
