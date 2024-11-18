@@ -13,7 +13,7 @@ This is usually referred to as transpose in mathematics.'''
 
 def transpose(lst):
     transposeLst = []
-    for i in len(lst):
+    for i in range(len(lst)):
         print(lst)
 
 liist= [[1, 2, 3],
