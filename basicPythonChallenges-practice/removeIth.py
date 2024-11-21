@@ -13,4 +13,4 @@ def remove(s, i):
     tmpStr = []
     fnlStr = []
 
-    tm
+    spltChars[i].remove
