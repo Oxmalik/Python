@@ -11,6 +11,10 @@ def remove(s, i):
     print( 'spltChars', spltChars)
     
     tmpStr = []
-    fnlStr = []
+    # fnlStr = []
 
-    spltChars[i].remove
+    tmpStr = spltChars.replace('s','')
+    print('tmpStr: ', tmpStr)
+
+chars='this Is A String'
+remove(chars, 1)
