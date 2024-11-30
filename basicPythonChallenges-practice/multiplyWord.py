@@ -14,7 +14,9 @@ def mulWord (s, n):
     for i in range (n):
         result.append(s)
     print('result ', result)
-    return result
+    fresult = " ".join(result)
+    print('fresult ', fresult)
+    return fresult
 
 
 mulWord ('cow', 3)
