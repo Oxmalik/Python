@@ -26,7 +26,7 @@ def fibo(i):
     elif(i==1):
         return 1
     else:
-        ans = (i-1) + (i-2)
+        ans = fibo(i-1) + fibo(i-2)
         print('ans: ', ans)
         return ans
 
