@@ -21,13 +21,18 @@ So,
 ....'''
 
 def fibo(i):
+    # ans=0
+
     if(i==0):
         return 0 
     elif(i==1):
         return 1
-    else:
-        ans = fibo(i-1) + fibo(i-2)
-        print('ans: ', ans)
-        return ans
+    else:     
+        # print('ans: ', ans)
+        return  fibo(i-1) + fibo(i-2)
+    
+    # print('fin ans: ', ans)
+    # return ans
+
 
 fibo(7)
