@@ -28,9 +28,16 @@ num and returns true if num is a prime number otherwise
 from math import sqrt
 
 def isPrime(num):
-    if (num <= 1):
-        return False
-    elif (num == 2):
-        return True
-    elif ( (int(sqrt(num)) + 1) ):
-        return True
+    # if (num <= 1):
+    #     print('False')
+    #     return False
+    # elif (num == 2):
+    #     print('True')
+    #     return True
+    for i in range(2, (int(sqrt(num)) + 1) ):
+        if (num % i == 0):
+            # print('False')
+            return False
+    return True
+
+isPrime(13)
