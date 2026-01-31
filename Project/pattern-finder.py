@@ -12,6 +12,7 @@
 
 # About the pass keyword: You'll see pass in the default code. It's a Python keyword that means "do nothing" and is used as a placeholder when Python requires an indented code block (like inside a function). You should replace pass with your actual function code.
 
+# Pseudocode:
 
 # 1 -> Does a pattern exist?
 # check if there's a python function for string compare
