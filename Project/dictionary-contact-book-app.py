@@ -28,7 +28,7 @@ def add_contact(contact_book):
         }
         print("Contact added successfully!")
 
-contact_bk = eval(input())
+# contact_bk = eval(input())
 # add_contact(contact_bk)
 
 
